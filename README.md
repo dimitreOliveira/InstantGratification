@@ -6,9 +6,9 @@ The goal of this repository is to use the data from "Instant Gratification compe
 ### Published Kaggle kernels:
 
 ### What you will find
-- Documentation [[link]]()
-  - Project working cycle and effort, relevant content and insights [[link]]()
-- Models [[link]]()
+- Documentation [[link]](https://github.com/dimitreOliveira/InstantGratification/tree/master/Documentation)
+  - Project working cycle and effort, relevant content and insights [[link]](https://github.com/dimitreOliveira/InstantGratification/blob/master/Documentation/Planning.md)
+- Models [[link]](https://github.com/dimitreOliveira/InstantGratification/tree/master/Model%20backlog)
 
 ### Instant Gratification
 #### A synchronous Kernels-only competition
