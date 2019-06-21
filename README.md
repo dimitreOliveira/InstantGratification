@@ -1,4 +1,4 @@
-![](https://github.com/dimitreOliveira/competitionTemplate/blob/master/Assets/banner.png)
+![](https://github.com/dimitreOliveira/InstantGratification/blob/master/Assets/banner.png?raw=true)
 
 ## About the repository
 The goal of this repository is to use the data from "Instant Gratification competition" and train machine learning models. This competition was more like a puzzle than a machine learning problem, so to get better results a better approach would be to reverse engineer the data and use an appropriated classifier.
